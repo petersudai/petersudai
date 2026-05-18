@@ -44,16 +44,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=petersudai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petersudai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=petersudai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=petersudai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=petersudai&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=petersudai&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petersudai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
