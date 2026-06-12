@@ -2,7 +2,7 @@
 
 # Hey, I'm Peter Sudai 👋
 
-### Full-stack Developer and Web Designer · Building from Nairobi 🇰🇪
+### Full-stack Developer and Product Designer · Building from Nairobi 🇰🇪
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PeterSudai?style=for-the-badge&logo=twitter&color=1DA1F2&labelColor=000)](https://twitter.com/PeterSudai)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sudaidevfolio.vercel.app)
