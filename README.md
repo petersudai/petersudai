@@ -15,10 +15,10 @@
 ### 🚀 What I'm building
 
 - 🎟️ **[TicketForge](https://github.com/petersudai/ticketforge)** A powerful ticket and event management platform and SaaS
-- 📱 **[VoltaMobile](https://github.com/petersudai/voltamobile)** Modern phone shop management app built for phone vendor
-- 🌊 **[Mawimbi Diani](https://github.com/petersudai/mawimbi-diani)** Energy drink brand concept and visual identity
+- 📱 **[VoltaMobile](https://github.com/petersudai/voltamobile)** Modern phone e-commerce shop management app built for phone stores
+- 🌊 **[Mawimbi Diani](https://github.com/petersudai/mawimbi-diani)** Energy drink brand concept and visual identity inspired by Diani Beach
 - 🎨 **[Sudai Creative Folio](https://github.com/petersudai/sudaicreativefolio)** Creative portfolio showcasing design and development work
-- 🛬 **[Professional Landing](https://github.com/petersudai/professional-landing)** High converting Next.js landing page template
+- 🛬 **[Professional Landing](https://github.com/petersudai/professional-landing)** High converting corporate portfolio landing page template
 
 ---
 
