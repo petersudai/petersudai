@@ -14,7 +14,7 @@
 
 ### 🚀 What I'm building
 
-- 🎟️ **[TicketForge](https://github.com/petersudai/ticketforge)** A powerful ticket and event management platform and SaaS
+- 🎟️ **[TicketForge](https://github.com/petersudai/ticketforge)** A ticket and event management platform and SaaS
 - 📱 **[VoltaMobile](https://github.com/petersudai/voltamobile)** Modern phone e-commerce shop management app built for phone stores
 - 🌊 **[Mawimbi Diani](https://github.com/petersudai/mawimbi-diani)** Energy drink brand concept and visual identity inspired by Diani Beach
 - 🎨 **[Sudai Creative Folio](https://github.com/petersudai/sudaicreativefolio)** Creative portfolio showcasing design and development work
